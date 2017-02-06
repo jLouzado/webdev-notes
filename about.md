@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+These are the notes from my web development journey. 
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+I'm working according to the path here: [Comprehensive Web Dev Path with CS Foundations](https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516)
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+You can find me on twitter [@jlouzado](http://twitter.com/jlouzado)

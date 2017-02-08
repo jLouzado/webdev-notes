@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Flow Router Reading"
+date: 2017-02-08 09:00:00 +0530
+categories: meteor topic research
+description: Links to get started with Flow Router and Meteor
+---
+
 # Routing with FlowRouter
 
 * [Introduction to Flowrouter](https://kadira.io/academy/meteor-routing-guide/content/introduction-to-flow-router)

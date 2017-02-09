@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Into to Flow Router (with Blaze)"
+title: "Intro to Flow Router (with Blaze)"
 date: 2017-02-08 09:00:00 +0530
 categories: meteor flowrouter blaze getting-started
 description: Getting started with Flow Router, BlazeLayout and Meteor
